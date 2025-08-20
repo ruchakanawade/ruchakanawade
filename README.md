@@ -20,8 +20,8 @@ I’m **Rucha Kanawade** — an aspiring software and data enthusiast who loves 
 - **Tools:** Git, vscode, GitHub, SQL, Jupyter Notebook
 
 ## 💼 Featured projects
--**AI mock interview app**:
--**AI-Powered Cotton Ball Classification System for Cotton Balls**:
+-**AI mock interview app**:https://github.com/ruchakanawade/AI-Powered-Mock-Interview-Platform-with-Nextjs
+-**AI-Powered Cotton Ball Classification System for Cotton Balls**:https://github.com/ruchakanawade/AI-Powered-Cotton-Ball-Classification-System-for-Cotton-Balls
 
 
 ## 📫 Contact
