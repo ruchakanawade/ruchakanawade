@@ -21,6 +21,8 @@ I’m **Rucha Kanawade** — an aspiring software and data enthusiast who loves 
 
 ## 💼 Featured projects
 -**AI mock interview app**:https://github.com/ruchakanawade/AI-Powered-Mock-Interview-Platform-with-Nextjs
+
+
 -**AI-Powered Cotton Ball Classification System for Cotton Balls**:https://github.com/ruchakanawade/AI-Powered-Cotton-Ball-Classification-System-for-Cotton-Balls
 
 
