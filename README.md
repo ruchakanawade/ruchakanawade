@@ -1,4 +1,3 @@
-# rucha-kanawade1
 # Hi, I’m Rucha Kanawade 👋
 
 ---
