@@ -6,18 +6,22 @@
 I’m **Rucha Kanawade** — an aspiring software and data enthusiast who loves building clean, useful projects that solve real problems. I enjoy learning full‑stack development, data analysis, and practical machine‑learning applications that intersect with engineering workflows.
 
 ## 🌱 I’m learning
-- Advanced Python (data pipelines, profiling)
-- Basics of MLOps / CI for ML models
+- Advanced Python 
+- Basics of AIML
 - React and modern frontend development
-- Cloud computing concepts (AWS & Docker)
+- Cloud computing concepts
+- Business & Healthcare Analytics
+- Data Analysis & Visualization
 
 ## 🛠️ Tech stack
 - **Languages:** Python, JavaScript, C++
-- **Web:** React, HTML, CSS, Flask/Django
+- **Web:** React, HTML, CSS, 
 - **Data / ML:** Pandas, NumPy, scikit-learn, PyTorch, TensorFlow
-- **Tools:** Git, Docker, GitHub Actions, SQL, Jupyter Notebook
+- **Tools:** Git, vscode, GitHub, SQL, Jupyter Notebook
 
 ## 💼 Featured projects
+-**AI mock interview app**:
+-**AI-Powered Cotton Ball Classification System for Cotton Balls**:
 
 
 ## 📫 Contact
